@@ -127,7 +127,4 @@ RETURN i.name, c.name
 LIMIT 20;
 ```
 
-## Remarques
 
-- `books.toscrape.com` est un site de demonstration concu pour le scraping.
-- Le pipeline peut etre etendu vers d'autres sources plus proches de votre sujet.
